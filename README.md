@@ -72,7 +72,7 @@ This Java CRUD project provides a set of APIs for managing user-related operatio
 ## Contributors
 **David Figuerero**
 
-- <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="Java Logo" width="30px">   https://github.com/Davidfi34](https://github.com/Davidfi34
+- <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="Java Logo" width="30px">   https://github.com/Davidfi34
 - <img src="https://github.com/devicons/devicon/raw/master/icons/linkedin/linkedin-original.svg" alt="Java Logo" width="30px">   https://www.linkedin.com/in/david-figuerero-developer/
 
 
