@@ -1,8 +1,9 @@
-# Java CRUD Project
+# Java CRUD Project <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java Logo" width="40px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg" alt="Spring Boot Logo" width="40px">
 
 This Java CRUD project provides a set of APIs for managing user-related operations. It allows you to perform basic Create, Read, Update, and Delete operations on user records in a database.
 
 ## Technologies Used
+
 
 - Java
 - Spring Framework
@@ -16,6 +17,7 @@ This Java CRUD project provides a set of APIs for managing user-related operatio
 2. Import the project into your preferred Java IDE.
 3. Make sure you have Java and Maven installed on your system.
 4. Resolve the project dependencies by running `mvn install` or using your IDE's build tools.
+
 
 ## Usage
 
@@ -68,8 +70,11 @@ This Java CRUD project provides a set of APIs for managing user-related operatio
 - **Returns**: The updated user object.
 
 ## Contributors
+**David Figuerero**
 
-- [David Figuerero](https://github.com/davidfiguero)
+- <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="Java Logo" width="30px">   https://github.com/Davidfi34](https://github.com/Davidfi34
+- <img src="https://github.com/devicons/devicon/raw/master/icons/linkedin/linkedin-original.svg" alt="Java Logo" width="30px">   https://www.linkedin.com/in/david-figuerero-developer/
+
 
 Feel free to contribute to the project by submitting bug reports, feature requests, or pull requests.
 
